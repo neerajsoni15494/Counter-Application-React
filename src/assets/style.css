@@ -1,0 +1,28 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+.buttons button {
+    width: 10rem;
+    height: 10rem;
+    font-size: 5em;
+    cursor: pointer;
+    border: 2px solid brown;
+    background-color: rgb(243, 240, 236);
+}
+
+input{
+    width: 9.7rem;
+    height: 9.7rem;
+    font-size: 5em;
+    cursor: pointer;
+    border: 2px solid brown;
+    background-color: rgb(243, 219, 219);
+}
+
+.buttons button:hover{
+    font-size: 7em;
+    background-color: brown;
+}
