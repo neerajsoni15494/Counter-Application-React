@@ -6,7 +6,7 @@ class App extends Component {
     super();
     this.state = {
       minValue: 1,
-      maxValue: 10,
+      maxValue: 1000,
     };
   }
 
